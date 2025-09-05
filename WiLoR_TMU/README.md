@@ -1,6 +1,6 @@
 # WiLoR_TMU
 
-TMU integration for **[WiLoR](https://github.com/rolpotamias/WiLoR)** (End-to-end 3D hand localization and reconstruction in-the-wild). This folder adds TMU’s token-grid restoration to WiLoR’s inference to improve throughput while preserving stable scale and alignment.
+TMU integration for **[WiLoR](https://github.com/rolpotamias/WiLoR)** (End-to-end 3D hand localization and reconstruction in-the-wild). This folder adds TMU’s token-grid restoration to WiLoR’s backbone to improve throughput while preserving stable scale and alignment.
 
 ---
 

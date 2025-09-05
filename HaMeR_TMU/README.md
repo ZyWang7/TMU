@@ -9,7 +9,7 @@ TMU integration for **[HaMeR](https://github.com/geopavlakos/hamer)** (Reconstru
 ![teaser](assets/TMU_HaMeR.png)
 
 
-**What to expect (from our MSc report):**
+**What to expect (from my MSc report):**
 - ~**25–40%** speedup on HaMeR with **negligible to moderate** accuracy change.
 - TMU removes the scale drift seen in merge-only reductions and keeps **lowest vertex error** across reduction levels.
 
@@ -25,7 +25,7 @@ Please **follow the original [HaMeR](https://github.com/geopavlakos/hamer) repos
 ---
 ## Results
 
-HaMeR + TMU on FreiHAND: throughput–accuracy trade-off.
+HaMeR + TMU on [FreiHAND](https://lmb.informatik.uni-freiburg.de/resources/datasets/FreihandDataset.en.html): throughput–accuracy trade-off.
 
 <p align="center">
   <img src="assets/HaMeR_r_curve.png" style="width:60%;max-width:900px;">
