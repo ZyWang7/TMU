@@ -1,6 +1,6 @@
 # HaMeR_TMU
 
-TMU integration for **[HaMeR](https://github.com/geopavlakos/hamer)** (ViT-based 3D hand mesh regression). This folder adds TMU’s token-grid restoration to HaMeR’s inference to improve throughput while preserving stable scale and alignment.
+TMU integration for **[HaMeR](https://github.com/geopavlakos/hamer)** (Reconstructing Hands in 3D with Transformers). This folder adds TMU’s token-grid restoration to HaMeR’s inference to improve throughput while preserving stable scale and alignment.
 
 ---
 
@@ -24,6 +24,8 @@ Please **follow the original [HaMeR](https://github.com/geopavlakos/hamer) repos
 
 ---
 ## Results
+
+HaMeR + TMU on FreiHAND: throughput–accuracy trade-off.
 
 <p align="center">
   <img src="assets/HaMeR_r_curve.png" style="width:60%;max-width:900px;">
