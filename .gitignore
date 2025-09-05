@@ -1,0 +1,11 @@
+.vscode/
+pycache/
+__pycache__/
+*.tar.gz
+_DATA/
+evaluation/freihand/eval_results/
+evaluation/freihand/gt/
+evaluation/HO3D/eval_results/
+evaluation/HO3D/gt/
+.DS_Store
+results/
