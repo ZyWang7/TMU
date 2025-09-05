@@ -16,6 +16,6 @@ TMU is a training-free, drop-in technique for ViT-based 3D mesh regression. It p
 
 ## Getting started
 
-1. Model integrations: [HaMeR_TMU](https://github.com/ZyWang7/TMU/HaMeR_TMU), [WiLoR_TMU](https://github.com/ZyWang7/TMU/WiLoR_TMU), or [SMPLest-X_TMU](https://github.com/ZyWang7/TMU/SMPLest-X_TMU). **Check the README inside that subfolder** for environment setup, data/checkpoint preparation, and any model-specific notes.
+1. Model integrations: [HaMeR_TMU](https://github.com/ZyWang7/TMU/tree/main/HaMeR_TMU), [WiLoR_TMU](https://github.com/ZyWang7/TMU/tree/main/WiLoR_TMU), or [SMPLest-X_TMU](https://github.com/ZyWang7/TMU/tree/main/SMPLest-X_TMU). **Check the README inside that subfolder** for environment setup, data/checkpoint preparation, and any model-specific notes.
 2. Adjust the token-reduction level to hit your latency/accuracy target.
 
